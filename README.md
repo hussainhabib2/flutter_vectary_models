@@ -1,16 +1,9 @@
-# product_detail_screen
+# Flutter: Adding 3D Models via Vectary
 
-A new Flutter project.
+Website: https://www.vectary.com/
 
-## Getting Started
+Vectary Project: https://app.vectary.com/p/7kXRGOXDuYiFvNZOurp4SB
 
-This project is a starting point for a Flutter application.
+Adding Vectary 3D models in Flutter via Webview. (Vectary made it easy)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled design (1)](https://user-images.githubusercontent.com/70210323/177038284-cd89665f-fb34-40a8-b3e1-8f5da69ac375.gif)
